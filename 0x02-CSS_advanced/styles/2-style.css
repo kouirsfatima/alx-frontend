@@ -1,5 +1,6 @@
+/* add colors */
 
-html{
+html {
     scroll-behavior: smooth;
 }
 
@@ -16,10 +17,9 @@ a {
 }
 
 .card-category {
-    color: #D73953
+    color: #D73953;
 }
 
 .section-tagline {
-    color: #D73953
+    color: #D73953;
 }
-
